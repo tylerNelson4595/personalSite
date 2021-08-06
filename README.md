@@ -1,6 +1,7 @@
 # personalSite
 
 Date: Friday, August 6th, 2020
+
 Name: My Personal Website
 
 Notes:
